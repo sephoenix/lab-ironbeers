@@ -50,4 +50,9 @@ footer{
     width: 100%;
     height: 50px;
     padding: 20px;
+    position: relative;
+}
+
+.beerimg{
+    size: 10px;
 }
